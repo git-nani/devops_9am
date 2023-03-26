@@ -22,4 +22,4 @@ CREATE TABLE employee(
 );
 
 INSERT INTO employee (FirstName,Surname)
-VLUES("harinarayan das", "pandith"),("hnd","pandi");
+VLUES("NANI", "KITTU"),("hnd","pandi");
